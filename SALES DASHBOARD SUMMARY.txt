@@ -1,0 +1,9 @@
+SALES DASHBOARD SUMMARY-
+
+The line chart (Sales over Month) reveals a strong upward trend in overall sales from 2014 to 2017, with multiple clear seasonal spikes and dips.
+
+The bar chart (Sales by Region) indicates that the West region consistently generates the highest sales, while the South region records the lowest sales figures.
+
+The donut chart (Sales by Category) shows that Technology contributes the largest share of sales, followed by Furniture and Office Supplies, respectively.
+
+The combined dashboard reflects that sales growth is steady over time, the West leads regional performance, and Technology is the best-selling category among all product segments.
